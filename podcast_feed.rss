@@ -12,7 +12,7 @@
   <podcast:locked owner="pointoffailurepod@gmail.com">yes</podcast:locked>
 <podcast:guid>28811a99-602e-5f70-a180-9545a3b5a804</podcast:guid>
   <itunes:author>Co</itunes:author>
-  <itunes:type>full</itunes:type>
+  <itunes:type>episodic</itunes:type>
   <itunes:explicit>no</itunes:explicit>
   <description><![CDATA[An impartial deep dive into the events, effects and causes of accidents. Looking to identify the points of failure in the chain of events that lead to a tragic end.]]></description>
   <itunes:keywords>Disaster, Accident, Fire, Ship, Aircraft</itunes:keywords>
@@ -45,16 +45,16 @@ A look into the fire and explosion aboard the chemical tanker Stolt Groenland, r
  ]]>
  </description>
  <itunes:image href="https://github.com/Pointoffailurepod/pointoffailurepod/blob/main/PoFTitle.png"/>
- <enclosure url="https://github.com/Pointoffailurepod/pointoffailurepod/blob/main/mp3/Episode%201.mp3" length="LENGTH" type="audio/mpeg"/>
+ <enclosure url="https://github.com/Pointoffailurepod/pointoffailurepod/blob/main/mp3/Episode%201.mp3" length="55840768" type="audio/mpeg"/>
  <itunes:duration>1:00:15</itunes:duration>
  <itunes:season>1</itunes:season>
  <itunes:episode>1</itunes:episode>
- <itunes:episodeType>episodic</itunes:episodeType>
+ <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
 https://github.com/Pointoffailurepod/pointoffailurepod/blob/main/mp3/Episode%201.mp3
 </guid>
 <pubDate>Sat, 09 Jul 2022 16:15:09 -0400</pubDate>
-<itunes:explicit>NO</itunes:explicit>
+<itunes:explicit>no</itunes:explicit>
 </item>
 </channel>
 </rss>
