@@ -1,0 +1,60 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+<channel>
+<title>Point of Failure: Engineering disasters explored</title>
+<link>https://github.com/Pointoffailurepod/pointoffailurepod</link>
+<language>en-gb</language>
+<atom:link href="https://github.com/Pointoffailurepod/pointoffailurepod/feed.xml" rel="self" type="application/rss+xml"/>
+<copyright>PointofFailurePod</copyright>
+<itunes:subtitle>Engineering disasters explored</itunes:subtitle>
+<itunes:author>Co</itunes:author>
+<itunes:summary>
+An impartial deep dive into the events, effects and causes of accidents. Looking to identify the points of failure in the chain of events that lead to a tragic end.
+</itunes:summary>
+<itunes:keywords>
+Disaster, Accident, Fire, Ship, Aircraft
+</itunes:keywords>
+<description>
+An impartial deep dive into the events, effects and causes of accidents. Looking to identify the points of failure in the chain of events that lead to a tragic end.
+</description>
+<itunes:owner>
+<itunes:name>Co</itunes:name>
+<itunes:email>pointoffailurepod@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:image href="https://PODCAST IMAGE.jpg"/>
+<itunes:category text="Education"></itunes:category>
+<itunes:category text="CATEGORY2"></itunes:category>
+<itunes:category text="CATEGORY3"></itunes:category>
+
+<item>
+<title>Episode 1: Fire and explosion aboard the chemical tanker Stolt Groenland</title>
+<itunes:title>Episode 1: Fire and explosion aboard the chemical tanker Stolt Groenland</itunes:title>
+<itunes:author>Co</itunes:author>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+A look into the fire and explosion aboard the chemical tanker Stolt Groenland, resulting from a runaway chemical reaction.
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+EPISODE DESCRIPTION
+]]>
+</description>
+<itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
+<enclosure url="https://github.com/Pointoffailurepod/pointoffailurepod/blob/main/mp3/Episode%201.mp3" length="LENGTH" type="audio/mpeg"/>
+<itunes:duration>DURATION</itunes:duration>
+<itunes:season>1 #</itunes:season>
+<itunes:episode>1 #</itunes:episode>
+<itunes:episodeType>episodic</itunes:episodeType>
+<guid isPermaLink="false">
+https://github.com/Pointoffailurepod/pointoffailurepod/blob/main/mp3/Episode%201.mp3
+</guid>
+<pubDate>Sat, 09 Jul 2022 16:15:09 -0400</pubDate>
+<itunes:explicit>NO</itunes:explicit>
+</item>
+
+... REPEAT <item> for each episode ...
+
+</channel>
+</rss>
